@@ -1,0 +1,40 @@
+# Build folders
+Builds/
+build/
+
+# JUCE library (if using as submodule or downloaded)
+JUCE/
+juce/
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+DerivedData/
+
+# Visual Studio
+*.vcxproj.*
+*.sln
+*.user
+*.opensdf
+*.sdf
+*.ipch
+*.VC.db
+
+# Mac system files
+.DS_Store
+
+# OS junk
+Thumbs.db
+
+# Plugin binary builds
+*.vst3
+*.component
+*.dll
+*.so
+
+# Backup files
+*~
+
+# JUCE auto-generated
+*.jucer
