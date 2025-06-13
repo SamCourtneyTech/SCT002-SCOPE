@@ -5,6 +5,8 @@ build/
 # JUCE library (if using as submodule or downloaded)
 JUCE/
 juce/
+JuceLibraryCode/
+
 
 # Xcode
 *.xcworkspace
@@ -38,3 +40,4 @@ Thumbs.db
 
 # JUCE auto-generated
 *.jucer
+
